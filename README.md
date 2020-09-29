@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 
 I'm a web front developer, I'd like to make some contributions for open source and share some thoughts on my blog and github.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Angelki&show_icons=true&theme=radical)
-
-<!--
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Angelki&show_icons=true&theme=radical)
--->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Angelki&show_icons=true)
+ 
